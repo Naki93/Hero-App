@@ -102,7 +102,7 @@ background: color;
     gap: 0;
   }
   .card {
-    width: 65%;
+    width: 50%;
     height: 25%;
     & img {
       object-fit: cover;
@@ -124,7 +124,7 @@ background: color;
     flex-direction: column;
   }
   .card {
-    width: 65%;
+    width: 50%;
     height: 25%;
     & img {
       object-fit: cover;
