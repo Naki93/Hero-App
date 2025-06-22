@@ -102,7 +102,7 @@ background: color;
     gap: 0;
   }
   .card {
-    width: 50%;
+    width: 65%;
     height: 25%;
     & img {
       object-fit: cover;
@@ -124,15 +124,15 @@ background: color;
     flex-direction: column;
   }
   .card {
-    width: 50%;
+    width: 65%;
     height: 25%;
     & img {
       object-fit: cover;
       object-position: top;
     }
   }
-  .card:hover {
-    transform: scale(1.1);
+/*   .card:hover {
+    transform: scale(1.1); */
   }
 }
 
