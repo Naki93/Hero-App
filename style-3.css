@@ -1,0 +1,133 @@
+.gallery img {
+  width: 100%;
+}
+
+#menu {
+  width: 100%;
+  height: 40px;
+  background-color: #c0c0c0;
+  padding-top: 12px;
+}
+
+#menu a {
+  color: #000;
+  font-family: "Bangers", system-ui;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 800;
+  padding: 0 20px 0 20px;
+}
+
+.thor {
+  background: linear-gradient(#000000, #808080, #000000, #c0c0c0, #000000);
+  /* background: linear-gradient(#000000, #ff0000, #000000, #ff0000); */
+}
+
+.ironman {
+  background: linear-gradient(#000000, #8b0000, #d4af37, #8b0000);
+}
+
+.hulk {
+  background: linear-gradient(#000000, rgb(22, 151, 22), #000000);
+}
+
+.hawkeye {
+  background: linear-gradient(#000000, rgb(102, 1, 102), #000000);
+}
+
+.captain {
+  background: linear-gradient(#000000, rgb(9, 9, 105), #000000);
+}
+
+.widow {
+  background: linear-gradient(#000, rgb(165, 87, 31), #000, chocolate, #000);
+}
+
+h1 {
+  text-align: center;
+  /* font-size: xx-large; */
+  font-weight: bolder;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Bangers", system-ui;
+  /* font-size: xx-large; */
+  font-weight: bolder;
+  font-style: normal;
+  color: #c0c0c0;
+  text-align: center;
+}
+
+.hawkeye1 {
+  color: purple;
+}
+
+.hulk1 {
+  color: rgb(22, 151, 22);
+}
+
+.captain1 {
+  color: rgb(21, 21, 192);
+}
+
+.america {
+  color: #8b0000;
+}
+
+.widow1 {
+  color: rgb(165, 87, 31);
+}
+
+h4 {
+  font-family: "Bangers", system-ui;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-style: normal;
+
+  color: #c0c0c0;
+}
+
+.ironman2 {
+  font-family: "Bangers", system-ui;
+
+  margin-right: 30px;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-style: normal;
+  /* color: #4968d8; */
+  color: #8b0000;
+}
+
+.captain2 {
+  font-family: "Bangers", system-ui;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-style: normal;
+  /* color: #4968d8; */
+  /* color: #8b0000; */
+}
+
+.widow2 {
+  font-family: "Bangers", system-ui;
+  font-size: xx-large;
+  font-weight: bolder;
+  font-style: normal;
+  /* color: #4968d8; */
+  color: rgb(20, 9, 1);
+}
+
+p {
+  color: white;
+}
+.ironman3 p {
+  color: rgb(194, 194, 194);
+}
+
+.about-us {
+  text-align: center;
+  color: #000;
+}
+
+.ironman {
+}

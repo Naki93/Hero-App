@@ -1,0 +1,103 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+}
+
+#main-tabs a {
+  text-decoration: none;
+  padding: 15px;
+  font-family: "Bangers";
+  font-size: 25px;
+  color: black;
+}
+
+#main-tabs a:hover {
+  color: #551a8b;
+}
+
+main.main-content {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  font-style: normal;
+  background-color: black;
+  color: white;
+}
+
+h1,
+h2 {
+  text-align: center;
+  font-style: normal;
+  font-family: "Bangers";
+  color: #551a8b;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  top: 30%;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+img.link:hover {
+  background-color: #551a8b;
+  border-radius: 18px;
+}
+
+img.git:hover {
+  background-color: #551a8b;
+  border-radius: 25px;
+}
+
+img.git {
+  width: 50px;
+}
+
+img.link {
+  width: 50px;
+}
+
+img.hulk {
+  width: 150px;
+  border-radius: 50%;
+}
+
+img.shield {
+  width: 150px;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 1300px) {
+  img.hulk,
+  img.shield {
+    display: none;
+  }
+}
