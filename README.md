@@ -100,7 +100,8 @@ Using semantic elements like `<nav>`, `<main>`, and `<footer>` improves screen r
 ## Credits
 
 - Images sourced from publicly available Avengers media.
-- Developed by [Your Name].
+- Developed by Anna ❤ 
+
 
 ## License
 
