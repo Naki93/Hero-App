@@ -102,11 +102,11 @@ background: color;
     gap: 0;
   }
   .card {
-    width: 50%;
+    width: 65%;
     height: 25%;
     & img {
       object-fit: cover;
-      object-position: top;
+      object-position: 50% 50%;
     }
   }
 
@@ -124,11 +124,11 @@ background: color;
     flex-direction: column;
   }
   .card {
-    width: 50%;
+    width: 65%;
     height: 25%;
     & img {
       object-fit: cover;
-      object-position: top;
+      object-position: 50% 50%;
     }
   }
 /*   .card:hover {
